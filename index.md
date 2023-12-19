@@ -1,9 +1,8 @@
-
-[Google Scholar](https://scholar.google.com/citations?user=YmWi1lgAAAAJ&hl=en) / [Github](https://github.com/hanqi-qi) / [Twitter](https://twitter.com/yan_hanqi) / [LinkedIn](https://www.linkedin.com/in/hanqi-yan-9211a91b1/?originalSubdomain=uk)
+[Google Scholar](https://scholar.google.com/citations?user=YmWi1lgAAAAJ&hl=en) / [Github](https://github.com/hanqi-qi) / [Twitter](https://twitter.com/yan_hanqi) / [LinkedIn](https://www.linkedin.com/in/hanqi-yan-9211a91b1/?originalSubdomain=uk) / [CV](https://github.com/hanqi-qi/homepage/blob/main/HanqiYanCV_20231219.pdf)
 
 Hanqi Yan 颜寒祺
 Email: [hanqi.yan@kcl.ac.uk](mailto:hanqi.yan@kcl.ac.uk)
-[CV](https://github.com/hanqi-qi/homepage/blob/main/HanqiYanCV_20231219.pdf)
+
 
 I am a Ph.D. student(2020fall) at the [University of Warwick](https://warwick.ac.uk/) & Kings' College London ([KCL](https://www.kcl.ac.uk/)) with professor [Yulan He](https://sites.google.com/view/yulanhe/home). I finished my M.S. at [Peking University](https://english.pku.edu.cn/) (2017-2020) in Academy for Advanced Interdisciplinary Studies and my B.E. at [Beihang University](https://ev.buaa.edu.cn/) (2013-2017) in Information Engineering Department. 
 
