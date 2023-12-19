@@ -1,8 +1,3 @@
-![](images/cover_4.jpeg)
-*Blue Hours Seattle. 2022*
-
----
-
 
 [Google Scholar](https://scholar.google.com/citations?user=YmWi1lgAAAAJ&hl=en) / [Github](https://github.com/hanqi-qi) / [Twitter](https://twitter.com/yan_hanqi) / [LinkedIn](https://www.linkedin.com/in/hanqi-yan-9211a91b1/?originalSubdomain=uk) / [Blog]()
 
