@@ -24,7 +24,7 @@ During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](h
 
 ### _Large Language Model_
 * [Arxiv 2023]  Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He. [The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities.](https://arxiv.org/abs/2311.00237)]
-![In-Context Learning can Learn Different Algorithm](/images/survey_macro.png)
+![In-Context Learning can Learn Different Algorithm](/images/survey_macro){: width="100" height="50"}
   * In-Context Learning can Learn Different Algorithms, i.e., Regression, Bayesian, non-linear. 
 
 * [Under Review] **H. Yan**, Q. Zhu, X. Wang, L. Gui, Y. He. <ins>_Steer the LLMs in the self-refinement loop via unsupervised Reward_.</ins>
