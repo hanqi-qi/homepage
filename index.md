@@ -23,8 +23,8 @@ During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](h
 ## Selected Publications
 
 ### _Large Language Model_
-* [Arxiv 2023]  Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He. [The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities.](https://arxiv.org/abs/2311.00237)]
-![softdecay](/images/softdecay.png){: width="200" height="100" style="display:block; margin-left:auto; margin-right:auto"}
+* [Arxiv 2023]  Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He. [The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities.](https://arxiv.org/abs/2311.00237)
+![survey](/images/survey_macro.png){: width="200" height="100" style="display:block; margin-left:auto; margin-right:auto"}
   * In-Context Learning can Learn Different Algorithms, i.e., Regression, Bayesian, non-linear. 
 
 * [Under Review] **H. Yan**, Q. Zhu, X. Wang, L. Gui, Y. He. <ins>_Steer the LLMs in the self-refinement loop via unsupervised Reward_.</ins>
@@ -32,33 +32,32 @@ During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](h
 
 ### _Efficient Robust Learning for Transformer-based models_
 
-* [UAI2021, Spotlight] **H. Yan**, L. Gui, Y. He.[Addressing Token Uniformity in Transformers via Singular Value Transformation](https://proceedings.mlr.press/v180/yan22b.html)
-![softdecay](/images/softdecay.png){: width="200" height="100"}
+* [UAI2021, Spotlight] **H. Yan**, L. Gui, Y. He. [Addressing Token Uniformity in Transformers via Singular Value Transformation](https://proceedings.mlr.press/v180/yan22b.html)
+![softdecay](/images/softdecay.png){: width="300" height="100" style="display:block; margin-left:auto; margin-right:auto"}
   * Token uniformity (Cosine Similarity between every two token representations) values increase as BERT layer increases, implying  more vanished dimensions in the embedding space. _SoftDecay_ is proposed to a range of transformer-based language models and improved performance is observed in semantic textual similarity evaluation and a range of GLUE tasks. 
 
 * [EACL23 findings] **H. Yan**, H. Li, Y. Li, L. Qian, Y. He and L. Gui. [Distinguishability Calibration to In-Context Learning](https://arxiv.org/abs/2302.06198)
-![incontext_adaptor](/images/incontext_adaptor.png){: width="80" height="40"}
+![incontext_adaptor](/images/incontext_adaptor.png){: width="200" height="100" style="display:block; margin-left:auto; margin-right:auto"}
 * Token uniformity issue is still observed in in-context learning, we proposed an adaptor for more discriminative representation learning and improved performance is observed in fine-grained text classification tasks.
 
 ### _Self-Explainable Framework for Supervised Model_
 
-* [Under Review] **H. Yan**, L. Gui, M. Wang, K. Zhang and Y. He. 
- [Explainable Recommender with Geometric Information Bottleneck](https://arxiv.org/abs/2305.05331)
-![In-Context Learning can Learn Different Algorithm](/images/giant.png){: width="80" height="40"}
+* [Under Review] **H. Yan**, L. Gui, M. Wang, K. Zhang and Y. He. [Explainable Recommender with Geometric Information Bottleneck](https://arxiv.org/abs/2305.05331)
+![In-Context Learning can Learn Different Algorithm](/images/giant.png){: width="200" height="100" style="display:block; margin-left:auto; margin-right:auto"}
   * To avoid the expensive human annotation process and to generate explanations beyond individual reviews, we propose to incorporate a geometric prior learnt from user-item interactions into the latent factors from user-item reviews.
 
 * [Computational Linguistics, Present at EMNLP23] **H. Yan**, L. Gui, Yulan He. [Hierarchical Interpretation of Neural Text Classification](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text).
-![Giant](/images/hint.png){: width="80" height="40"}
+![Giant](/images/hint.png){: width="200" height="150" style="display:block; margin-left:auto; margin-right:auto"}
   * An unsupervised self-explanatory framework for long document classification. It can extract word-, sentence-, and topic-level rationales explaining the document-level decision.
   
 * [ACL21, Oral] **H. Yan**, L. Gui, G. Pergola and Y. He. [A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://aclanthology.org/2021.acl-long.261.pdf).
-![kag](/images/kag_new.png){: width="80" height="40"}
+![kag](/images/kag_new.png){: width="200" height="100" style="display:block; margin-left:auto; margin-right:auto"}
 * Position bias is observed in a cause identification dataset and we proposed to leverage ConceptNet to extract invariant feature, i.e., causal commonsense knowledge, to tackle the distribution shift. 
 
 ### Unsupervised disentanglement learning under distribution shift
 
 * [Neurips23, Poster] **H. Yan**, L. Kong*, L. Gui, Y. Chi, Eric. Xing, Y. He, K. Zhang. [Counterfactual Generation with Identifiability Guarantee](https://neurips.cc/virtual/2023/poster/71063).
-![matte](/images/matte.png){: width="80" height="40"}
+![matte](/images/matte.png){: width="200" height="100" style="display:block; margin-left:auto; margin-right:auto"}
 * We provide identification guarantees for latent-variable models by leveraging the relative sparsity of the influences from different latent variables. This principled representations can shed light on the constrained, i.e., safe and moral generation for large language models with noisy pertaining data.
 
 ## Professional Service
