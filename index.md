@@ -27,24 +27,27 @@ I am expected to graduate in October 2024 and will be on academic job market in 
 ## Selected Publications
 
 
- _Large Language Model_
-* [Arxiv 2023]  Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He._The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities._ [[paper](https://arxiv.org/abs/2311.00237)]
+### _Large Language Model_
+* [Arxiv 2023]  Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He. [The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities.](https://arxiv.org/abs/2311.00237)]
 ![In-Context Learning can Learn Different Algorithm](/images/survey_macro.png)
+  * In-Context Learning can Learn Different Algorithm
+
+* [Under Review] **H. Yan**, Q. Zhu, X. Wang, L. Gui, Y. He. <ins>_Steer the LLMs in the self-refinement loop via unsupervised Reward_.</ins>
+
+
+### _Self-Explainable Framework for Supervised Model_
+
+* [Under Review] **H. Yan**, L. Gui, M. Wang, K. Zhang and Y. He. 
+ [Explainable Recommender with Geometric Information Bottleneck](https://arxiv.org/abs/2305.05331)
+![In-Context Learning can Learn Different Algorithm](/images/giant.png)
+  * To avoid the expensive human annotation process and to generate explanations beyond individual reviews, we propose to incorporate a geometric prior learnt from user-item interactions into the latent factors from user-item reviews.
+
+* [Computational Linguistics, Present at EMNLP23] **H. Yan**, L. Gui, Yulan He. [Hierarchical Interpretation of Neural Text Classification](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text).
+![Giant](/images/hint.png)
   * 
-
-* [Under Review] **H. Yan**, Q. Zhu, X. Wang, L. Gui, Y. He. _Steer the LLMs in the self-refinement loop via unsupervised Reward_.
-  * 
-
-
-_Self-Explainable Framework for Supervised Model_
-* [Under Review] [[Explainable Recommender with Geometric Information Bottleneck](https://arxiv.org/abs/2305.05331)]
-  * **H. Yan**, L. Gui, M. Wang, K. Zhang and Y. He. 
-
-* [Computational Linguistics, Present at EMNLP23] [[Hierarchical Interpretation of Neural Text Classification](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text).
-  * **H. Yan**, L. Gui, Y. He.
   
-* [ACL21, Oral] [[A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://aclanthology.org/2021.acl-long.261.pdf)].
-  * **H. Yan**, L. Gui, G. Pergola and Y. He.
+* [ACL21, Oral] **H. Yan**, L. Gui, G. Pergola and Y. He. [A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://aclanthology.org/2021.acl-long.261.pdf).
+![kag](/images/)
 
 _Efficient Robust Learning for Transformer-based models_
 * [UAI2021, Spotlight] [[Addressing Token Uniformity in Transformers via Singular Value Transformation](https://proceedings.mlr.press/v180/yan22b.html)]
