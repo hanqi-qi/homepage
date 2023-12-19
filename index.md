@@ -57,7 +57,7 @@ During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](h
 ### Unsupervised disentanglement learning under distribution shift
 
 * [Neurips23, Poster] **H. Yan**, L. Kong*, L. Gui, Y. Chi, Eric. Xing, Y. He, K. Zhang. [Counterfactual Generation with Identifiability Guarantee](https://neurips.cc/virtual/2023/poster/71063).
-![matte](/images/matte_new.png){: width="200" height="100" style="display:block; margin-left:auto; margin-right:auto"}
+![matte](/images/matte_new.png){: width="200" height="120" style="display:block; margin-left:auto; margin-right:auto"}
 * We provide identification guarantees for latent-variable models by leveraging the relative sparsity of the influences from different latent variables. This principled representations can shed light on the constrained, i.e., safe and moral generation for large language models with noisy pertaining data.
 
 ## Professional Service
