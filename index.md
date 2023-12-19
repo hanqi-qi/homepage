@@ -33,7 +33,7 @@ During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](h
 ### _Efficient Robust Learning for Transformer-based models_
 
 * [UAI2021, Spotlight] **H. Yan**, L. Gui, Y. He.[Addressing Token Uniformity in Transformers via Singular Value Transformation](https://proceedings.mlr.press/v180/yan22b.html)
-![softdecay](/images/softdecay.png)
+![softdecay](/images/softdecay.png){: width="40" height="20"}
   * Token uniformity (Cosine Similarity between every two token representations) values increase as BERT layer increases, implying  more vanished dimensions in the embedding space. _SoftDecay_ is proposed to a range of transformer-based language models and improved performance is observed in semantic textual similarity evaluation and a range of GLUE tasks. 
 
 * [EACL23 findings] **H. Yan**, H. Li, Y. Li, L. Qian, Y. He and L. Gui. [Distinguishability Calibration to In-Context Learning](https://arxiv.org/abs/2302.06198)
