@@ -17,7 +17,7 @@ During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](h
 
 ## Education
 * 2020 - 2023. Ph.D. at University of Warwick & Kings' College London(KCL). Interpretable and Robust NLP
-* 2018 - 2020. M.S. at Peking University. Sentiment Analysis & Spatial Data Mining
+* 2017 - 2020. M.S. at Peking University. Sentiment Analysis & Spatial Data Mining
 * 2013 - 2017. B.E. at Beihang University. Information Engineering
 
 ## Selected Publications
