@@ -6,18 +6,14 @@ Email: [hanqi.yan@kcl.ac.uk](hanqi.yan@kcl.ac.uk)
 
 I am a Ph.D. student(2020fall) at the [University of Warwick](https://warwick.ac.uk/) & Kings' College London ([KCL](https://www.kcl.ac.uk/)) with professor [Yulan He](https://sites.google.com/view/yulanhe/home). I finished my M.S. at [Peking University](https://english.pku.edu.cn/) (2017-2020) in Academy for Advanced Interdisciplinary Studies and my B.E. at [Beihang University](https://ev.buaa.edu.cn/) (2013-2017) in Information Engineering Department. 
 
-> During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with **Causal Learning and Reasoning Group at CMU** (2022.10-2023.02).
+During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) affiliated with **Causal Learning and Reasoning Group at CMU** (2022.10-2023.02). Before Ph.D., I started my NLP journey in visiting professor [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated **Natural Language Processing Group @PolyU Hong Kong** (2019.07-2019.10).
 
-> Before Ph.D., I started my NLP journey in visiting professor [Wenjie Li](https://www4.comp.polyu.edu.hk/~cswjli/) affiliated **Natural Language Processing Group @PolyU Hong Kong** (2019.07-2019.10).
+> I study **interpretable** and **robust** NLP models across supervised, unsupervised and in-context learning settings:
+ * In the LLM era, I focus on constrained planning (search) in the model decoding/fine-tuning phases , to achieve _safe_, _reliable_ and _fair_ outputs.
+ * Align the models' behaviors with human knowledge in self-explanatory framework, which in turns improves the models' transparency and reliability.
+ * Empirical and principled methods to alleviate spurious correlation and learn robust representations for various test inputs.
 
-```
-I study **interpretable** and **robust** NLP models across supervised, unsupervised and in-context learning settings:
-* In the LLM era, I focus on constrained planning (search) in the model decoding/fine-tuning phases , to achieve _safe_, _reliable_ and _fair_ outputs.
-* Align the models' behaviors with human knowledge in self-explanatory framework, which in turns improves the models' transparency and reliability.
-* Empirical and principled methods to alleviate spurious correlation and learn robust representations for various test inputs.
-
-I am expected to graduate in October 2024 and will be on academic job market in the UK and US.
-```
+> I am expected to graduate in October 2024 and will be on academic job market in the UK and US.
 
 ## Education
 * 2020 - 2023. Ph.D. at University of Warwick & Kings' College London(KCL). Interpretable and Robust NLP
@@ -56,7 +52,7 @@ I am expected to graduate in October 2024 and will be on academic job market in 
   * An unsupervised self-explanatory framework for long document classification. It can extract word-, sentence-, and topic-level rationales explaining the document-level decision.
   
 * [ACL21, Oral] **H. Yan**, L. Gui, G. Pergola and Y. He. [A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://aclanthology.org/2021.acl-long.261.pdf).
-![kag](/images/kag.png)
+![kag](/images/kag_new.png)
 * Position bias is observed in a cause identification dataset and we proposed to leverage ConceptNet to extract invariant feature, i.e., causal commonsense knowledge, to tackle the distribution shift. 
 
 ### Unsupervised disentanglement learning under distribution shift
