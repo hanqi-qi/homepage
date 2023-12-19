@@ -19,13 +19,11 @@ I study **interpretable** and **robust** representations for NLP models,:
 
 I am expected to graduate in Octorber 2024 and looking for academic positions in the UK and US. 
 
------
-## Experiences
-### Academia
+
+## Education
 * 2020 - 2023. Ph.D. at University of Warwick & Kings' College London. Intepretable and Robust NLP
 * 2018 - 2020. M.S. at Peking University. Sentiment Analysis & Spatial Data Mining
 * 2013 - 2017. B.E. at Beihang University. Information Engineering
------
 
 ## Featured Research
  
