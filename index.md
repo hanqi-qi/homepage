@@ -28,19 +28,17 @@ I am expected to graduate in October 2024 and will be on academic job market in 
 
 
  _Large Language Model_
-* [Arxiv 2023] _The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities._ [[paper](https://arxiv.org/abs/2311.00237)]
+* [Arxiv 2023]  Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He._The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities._ [[paper](https://arxiv.org/abs/2311.00237)]
 ![In-Context Learning can Learn Different Algorithm](/images/survey_macro.png)
-  * Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He.
+  * 
 
-* [Under Review] _Steer the LLMs in the self-refinement loop via unsupervised Reward_.
-  * **H. Yan**, Q. Zhu, X. Wang, L. Gui, Y. He. 
-  * Trading language model's generic ability for specialized math chain-of-thought ability. 
+* [Under Review] **H. Yan**, Q. Zhu, X. Wang, L. Gui, Y. He. _Steer the LLMs in the self-refinement loop via unsupervised Reward_.
+  * 
 
 
 _Self-Explainable Framework for Supervised Model_
 * [Under Review] [[Explainable Recommender with Geometric Information Bottleneck](https://arxiv.org/abs/2305.05331)]
   * **H. Yan**, L. Gui, M. Wang, K. Zhang and Y. He. 
-  * State-of-the-art reasoning performance on math word problems by prompting GPT3 with instances of complex reasoning chains.
 
 * [Computational Linguistics, Present at EMNLP23] [[Hierarchical Interpretation of Neural Text Classification](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text).
   * **H. Yan**, L. Gui, Y. He.
