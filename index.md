@@ -10,7 +10,7 @@ During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](h
 
 > I study **interpretable** and **robust** NLP models across supervised, unsupervised and in-context learning settings:
  * In the LLM era, I focus on constrained planning (search) in the model decoding/fine-tuning phases , to achieve **safe**, **reliable** and **fair** generation.
- * Align the models' behaviors with human knowledge in **self-explanatory** framework, which in turns improves the models' transparency and reliability.
+ * Align the models' behaviors with human knowledge in **self-explanatory** framework in probablistic perspective. 
  * Empirical and principled methods to alleviate spurious correlation and learn **robust representations under distribution shifts**.
 
 > I am on academic job market located in the UK and US.
@@ -24,35 +24,36 @@ During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](h
 
 ### _Large Language Model_
 * [Under Review] **H. Yan<sup>*</sup>**, Q. Zhu<sup>*</sup>, X. Wang, L. Gui, Y. He. <ins>_Steer the LLMs in the self-refinement loop via unsupervised Reward_.</ins>
+  * Introduce a tutoring model to interact with reasoning model by providing question-specific guidance and feedback.
 
 * [Arxiv 2023]  Y. Zhou, J. Li, Y.Xiang, **H.Yan**, L. Gui, Y. He. [The Mystery and Fascination of LLMs: A Comprehensive Survey on the Interpretation and Analysis of Emergent Abilities.](https://arxiv.org/abs/2311.00237)
-![survey](/images/survey_macro.png){: width="450" height="200" style="display:block; margin-left:auto; margin-right:auto"}
-  * Why In-Context Learning can learn Different Algorithms without gradient descent, e.g, Regression, Bayesian.
+  * From Macro perspective, Why In-Context Learning can learn Different Algorithms without gradient descent, e.g, Regression, Bayesian.
 
-### Unsupervised disentanglement learning under distribution shift
+### _Self-Explainable Framework_
+* [Under Review] **H. Yan**, L. Gui, M. Wang, K. Zhang and Y. He. [Explainable Recommender with Geometric Information Bottleneck](https://arxiv.org/abs/2305.05331)
+![In-Context Learning can Learn Different Algorithm](/images/giant.png){: width="400" height="120" style="display:block; margin-left:auto; margin-right:auto"}
+  * To ease the humman annotation for rationales in Recommender, a prior from user-item interactions is incorporated into the textual latent factors for explaination generation.
+* **[Computational Linguistics, EMNLP23 Poster]** **H. Yan**, L. Gui, Yulan He. [Hierarchical Interpretation of Neural Text Classification](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text).
+![Giant](/images/hint.png){: width="350" height="210" style="display:block; margin-left:auto; margin-right:auto"}
+  * Unsupervised self-explanatory framework for document classification. It can extract word-, sentence-, and topic-level rationales explaining the document-level decision.
+* **[ACL21, Oral]** **H. Yan**, L. Gui, G. Pergola and Y. He. [A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://aclanthology.org/2021.acl-long.261.pdf).
+![kag](/images/kag_new.png){: width="300" height="150" style="display:block; margin-left:auto; margin-right:auto"}
+  * Commonsense Knowledge, i.e., ConceptNet is applied as invariant feature to tackle the distribution shift and Position Bias.
+  
+### Unsupervised Domain-variant Generation
 * **[Neurips23, Poster]** **H. Yan**<sup>*</sup>, L. Kong<sup>*</sup>, L. Gui, Y. Chi, Eric. Xing, Y. He, K. Zhang. [Counterfactual Generation with Identifiability Guarantee](https://neurips.cc/virtual/2023/poster/71063).
 ![matte](/images/matte_new.png){: width="250" height="100" style="display:block; margin-left:auto; margin-right:auto"}
-  * We provide identification guarantees for latent-variable models by leveraging the relative sparsity of the influences from different latent variables, so that we can successfully disentangle the content and style variables and further apply intervention for conditional generation. This principled representations can shed light on the constrained, i.e., safe and moral generation for large language models with noisy pertaining data.
+  * Provide Identification guarantees for successful disentanglement of the content and style variables, further supports the intervention of latent attributes of the text.  This principled representations can shed light on the constrained, i.e., safe and moral generation for large language models with noisy pertaining data.
     
 ### _Efficient Robust Learning for Transformer-based models_
 * **[UAI2021, Spotlight]** **H. Yan**, L. Gui, Y. He. [Addressing Token Uniformity in Transformers via Singular Value Transformation](https://proceedings.mlr.press/v180/yan22b.html)
 ![softdecay](/images/softdecay.png){: width="360" height="140" style="display:block; margin-left:auto; margin-right:auto"}
-  * Token uniformity (Cosine Similarity between every two token representations) values increase as BERT layer increases, implying  more vanished dimensions in the embedding space. _SoftDecay_ is proposed to a range of transformer-based language models and improved performance is observed in semantic textual similarity evaluation and a range of GLUE tasks. 
+  * Token uniformity implies  more vanished dimensions in the embedding space. _SoftDecay_ is proposed to a range of transformer-based language models and improved performance is observed in STS evaluation and a range of GLUE tasks. 
 * **[EACL23 findings]** **H. Yan**<sup>*</sup>, H. Li<sup>*</sup>, Y. Li, L. Qian, Y. He and L. Gui. [Distinguishability Calibration to In-Context Learning](https://arxiv.org/abs/2302.06198)
 ![incontext_adaptor](/images/incontext_adaptor.png){: width="350" height="150" style="display:block; margin-left:auto; margin-right:auto"}
   * Token uniformity issue is still observed in in-context learning, we proposed an adaptor for more discriminative representation learning and improved performance is observed in fine-grained text classification tasks.
 
-### _Self-Explainable Framework for Supervised Model_
 
-* [Under Review] **H. Yan**, L. Gui, M. Wang, K. Zhang and Y. He. [Explainable Recommender with Geometric Information Bottleneck](https://arxiv.org/abs/2305.05331)
-![In-Context Learning can Learn Different Algorithm](/images/giant.png){: width="400" height="120" style="display:block; margin-left:auto; margin-right:auto"}
-  * To avoid the expensive human annotation process and to generate explanations beyond individual reviews, we propose to incorporate a geometric prior learnt from user-item interactions into the latent factors from user-item reviews.
-* **[Computational Linguistics, EMNLP23 Poster]** **H. Yan**, L. Gui, Yulan He. [Hierarchical Interpretation of Neural Text Classification](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text).
-![Giant](/images/hint.png){: width="350" height="210" style="display:block; margin-left:auto; margin-right:auto"}
-  * An unsupervised self-explanatory framework for long document classification. It can extract word-, sentence-, and topic-level rationales explaining the document-level decision.
-* **[ACL21, Oral]** **H. Yan**, L. Gui, G. Pergola and Y. He. [A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://aclanthology.org/2021.acl-long.261.pdf).
-![kag](/images/kag_new.png){: width="300" height="150" style="display:block; margin-left:auto; margin-right:auto"}
-  * Position bias is observed in a cause identification dataset and we proposed to leverage ConceptNet to extract invariant feature, i.e., causal commonsense knowledge, to tackle the distribution shift. 
 
 ## Professional Service
 * Event Organizer:  Co-Chair of AACL-IJCNLP (Student Research Workshop) 2022 
