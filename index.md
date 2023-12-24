@@ -30,7 +30,7 @@ During Ph.D., I started my Causality Journey in visiting professor [Kun Zhang](h
   * From Macro perspective, Why In-Context Learning can learn Different Algorithms without gradient descent, e.g, Regression, Bayesian.
 
 ### _Self-Explainable Framework_
-* [TKDE] **H. Yan**, L. Gui, M. Wang, K. Zhang and Y. He. [Explainable Recommender with Geometric Information Bottleneck](https://arxiv.org/abs/2305.05331)
+* [**TKDE**] **H. Yan**, L. Gui, M. Wang, K. Zhang and Y. He. [Explainable Recommender with Geometric Information Bottleneck](https://arxiv.org/abs/2305.05331)
 ![In-Context Learning can Learn Different Algorithm](/images/giant.png){: width="400" height="120" style="display:block; margin-left:auto; margin-right:auto"}
   * To ease the humman annotation for rationales in Recommender, a prior from user-item interactions is incorporated into the textual latent factors for explaination generation.
 * **[Computational Linguistics, EMNLP23 Poster]** **H. Yan**, L. Gui, Yulan He. [Hierarchical Interpretation of Neural Text Classification](https://direct.mit.edu/coli/article/doi/10.1162/coli_a_00459/112768/Hierarchical-Interpretation-of-Neural-Text).
